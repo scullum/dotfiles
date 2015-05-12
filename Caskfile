@@ -13,3 +13,9 @@ cask install google-drive
 cask install spectacle
 cask install atom
 cask install imageoptim
+cask install cyberduck
+cask install gimp
+cask install parse
+cask install sublime-text3
+cask install virtualbox
+cask install charles
