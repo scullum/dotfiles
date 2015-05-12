@@ -4,3 +4,10 @@ install rbenv
 install ruby-build
 install watch
 install wget
+install brew-cask
+install git
+install composer
+install hubflow
+install redis
+install mongodb
+install docker
