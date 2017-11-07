@@ -4,15 +4,10 @@ cask install alfred
 cask install dropbox
 cask install sketch
 cask install slack
-cask install vagrant
-cask install alfred
-cask install caffeine
 cask install google-drive
-cask install spectacle
 cask install atom
 cask install imageoptim
 cask install cyberduck
-cask install gimp
 cask install sublime-text3
-cask install virtx ualbox
 cask install charles
+cask install spotify
